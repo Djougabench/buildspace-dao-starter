@@ -1,4 +1,5 @@
 {
   "name": "mydao-scripts",
-  "type": "module"
+  "type": "module",
+  "homepage": "/"
 }
